@@ -14,5 +14,24 @@
     "nodemon": "^3.1.0",
     "path": "^0.12.7",
     "twilio": "^5.0.2"
-  }
+  },
+  "name": "car_rental_git",
+  "description": "Port No :1000;\r Login \r Pass :admin123;\r username: admin@gmail.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilbor407/car_rental.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilbor407/car_rental/issues"
+  },
+  "homepage": "https://github.com/nilbor407/car_rental#readme"
 }
